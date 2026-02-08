@@ -1,0 +1,41 @@
+You are about to generate an AI-powered SEO blog and content cluster
+for a business website.
+
+Fill in the details below as clearly as possible.
+This input will be used by the SEO prompt system.
+
+════════════════════════
+BUSINESS INFORMATION
+════════════════════════
+Business Name:
+Business Type:
+Business Goal (leads / sales / awareness):
+Website Type (service / SaaS / ecommerce / blog):
+
+════════════════════════
+TARGET AUDIENCE
+════════════════════════
+Target Audience:
+Customer Pain Points:
+Buying Stage (awareness / consideration / decision):
+
+════════════════════════
+SEO KEYWORD DETAILS
+════════════════════════
+Primary Keyword:
+Secondary Keywords:
+Search Intent (informational / commercial / transactional / local):
+Location (optional – for local SEO):
+
+════════════════════════
+CONTENT PREFERENCES
+════════════════════════
+Blog Length (1000–1800 words):
+Tone (professional / friendly / authoritative):
+Competitor Reference (optional):
+CTA Goal (contact / signup / purchase):
+
+════════════════════════
+FINAL INSTRUCTIONS
+════════════════════════
+Additional Notes (optional):

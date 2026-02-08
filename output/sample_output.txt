@@ -1,0 +1,37 @@
+You are an AI SEO content generator.
+
+Using the details below, generate a SAMPLE OUTPUT that demonstrates
+how the AI SEO Blog & Content Cluster Generator works.
+
+This output is for demonstration purposes only and should include:
+- Pillar blog topic
+- SEO outline (H1–H3)
+- Short blog excerpt (not full article)
+- Content cluster topics
+- Internal linking strategy
+- Call-to-action (CTA)
+
+════════════════════════
+INPUT DETAILS
+════════════════════════
+Business Name: GrowthSpark Digital
+Business Type: Digital Marketing Agency
+Business Goal: Lead Generation
+Target Audience: Small Business Owners
+Primary Keyword: SEO services for small businesses
+Secondary Keywords: local SEO, affordable SEO services
+Search Intent: Commercial
+Location: India
+Blog Length: 1200 words
+Tone: Professional and friendly
+
+════════════════════════
+OUTPUT FORMAT
+════════════════════════
+
+1. Pillar Blog Topic
+2. SEO Blog Outline (H1–H3)
+3. Short Blog Content Sample (2–3 paragraphs)
+4. Content Cluster Topics (5–7)
+5. Internal Linking Strategy
+6. CTA
